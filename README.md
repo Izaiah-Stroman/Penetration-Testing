@@ -29,7 +29,7 @@ The projects within this repository represent comprehensive penetration testing 
 
 ### Instructions
 
-Each folder within this repository contains PDF documents that detail the projects. These documents offer in-depth explanations of the penetration testing processes, including methodologies, tools used, and findings. Review these documents to gain insights into the penetration testing techniques and security practices I employed.
+ These PDF documents offer in-depth explanations of the penetration testing processes, including methodologies, tools used, and findings. Review these documents to gain insights into the penetration testing techniques and security practices I employed.
 
 ## Conclusion
 
