@@ -1,4 +1,4 @@
-# Penetration-Testing
+
 # Penetration Testing Repository
 
 This repository contains a collection of my penetration testing projects, showcasing my expertise in identifying vulnerabilities, assessing security measures, and implementing effective defenses within IT environments. These projects are the culmination of my academic  professional experiences, demonstrating my ability to conduct thorough penetration tests and provide actionable security insights.
